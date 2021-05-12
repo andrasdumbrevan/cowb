@@ -1,0 +1,797 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"random",
+				"random_image"
+			],
+			[
+				"Games",
+				"GamesPage"
+			],
+			[
+				"S",
+				"ScreenHeight"
+			],
+			[
+				"Sc",
+				"ScreenWidth"
+			],
+			[
+				"e",
+				"e_bullet"
+			],
+			[
+				"cra",
+				"check_crates_hit"
+			],
+			[
+				"e_",
+				"e_bullet"
+			],
+			[
+				"e_bull",
+				"e_bullet"
+			],
+			[
+				"bu",
+				"bullet_sound"
+			],
+			[
+				"bull",
+				"bullet2_sound"
+			],
+			[
+				"bullet",
+				"bullet_sound"
+			],
+			[
+				"Cb",
+				"CBoxApp"
+			],
+			[
+				"play",
+				"play_music"
+			],
+			[
+				"ene",
+				"enemy_fire"
+			],
+			[
+				"on",
+				"on_touch_down"
+			],
+			[
+				"Gm",
+				"GamePage"
+			],
+			[
+				"Game",
+				"GamePage"
+			],
+			[
+				"size",
+				"size_hint_y"
+			],
+			[
+				"sie",
+				"size_hint_y"
+			],
+			[
+				"sys",
+				"sysNotify"
+			],
+			[
+				"un",
+				"unschedule"
+			],
+			[
+				"server",
+				"servernames"
+			],
+			[
+				"get",
+				"get_ctime2"
+			],
+			[
+				"Ga",
+				"gameApp"
+			],
+			[
+				"check",
+				"check_updates"
+			],
+			[
+				"u",
+				"userID"
+			],
+			[
+				"ge",
+				"getApi"
+			],
+			[
+				"cn",
+				"cn_btn_status"
+			],
+			[
+				"remove",
+				"remove_widget"
+			],
+			[
+				"loc",
+				"locbtn"
+			],
+			[
+				"fas",
+				"fastestcmd"
+			],
+			[
+				"up",
+				"update_buttons"
+			],
+			[
+				"ovpn",
+				"ovpn_api"
+			],
+			[
+				"ib",
+				"ib_api"
+			],
+			[
+				"lo",
+				"locationselection"
+			],
+			[
+				"connec",
+				"changedconnectbtn"
+			],
+			[
+				"conn",
+				"connecto"
+			],
+			[
+				"fs",
+				"fstdone"
+			],
+			[
+				"VPN",
+				"VPNPage"
+			],
+			[
+				"vpn",
+				"VPNPage"
+			],
+			[
+				"sche",
+				"schedule_interval"
+			],
+			[
+				"Connect",
+				"ConnectPage"
+			],
+			[
+				"connect",
+				"ConnectPage"
+			],
+			[
+				"VP",
+				"vpn_page"
+			],
+			[
+				"ctry",
+				"ctrylist"
+			],
+			[
+				"res_",
+				"res_list"
+			],
+			[
+				"Connec",
+				"ConnectPage"
+			],
+			[
+				"siz",
+				"size_hint_y"
+			],
+			[
+				"add",
+				"add_widget"
+			],
+			[
+				"L",
+				"Label"
+			],
+			[
+				"Se",
+				"ServerScreen"
+			],
+			[
+				"fa",
+				"fastestcmd"
+			],
+			[
+				"det",
+				"det_fast"
+			],
+			[
+				"f",
+				"fstdone"
+			],
+			[
+				"Conn",
+				"ConnectPage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/dandras/_data/dasz/py/rwl/main.py",
+			"settings":
+			{
+				"buffer_size": 9116,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dandras/_data/dasz/py/rwl/matchgame.kv",
+			"settings":
+			{
+				"buffer_size": 1021,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/dandras/_data/dasz/py/rwl/design.kv",
+			"settings":
+			{
+				"buffer_size": 5016,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/dandras/_data/dasz/py/rwl/games.kv",
+			"settings":
+			{
+				"buffer_size": 5031,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/dandras/_data/dasz/py/AIO_Win_Lite/design.kv",
+			"settings":
+			{
+				"buffer_size": 1871,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+			"^d",
+			"eof",
+			"stop",
+			"sys.exit()",
+			"exit()",
+			"cls",
+			"clear",
+			"abort",
+			"quit",
+			"exit",
+			"cls",
+			"clear",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dandras/_data/dasz/py/cowboy"
+	],
+	"file_history":
+	[
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.239,share=homes/pi/pi.php",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.239,share=homes/p1.py",
+		"/home/dandras/_data/dasz/py/AIO_Win_Lite/ibvpnlv.pyw",
+		"/home/dandras/_data/dasz/py/AIO_Win_Lite/ibvpbcknlv.py",
+		"/home/dandras/_data/RWL/assets/sobo/printables/weekdays.odt",
+		"/home/dandras/_data/dasz/py/rwl/design.kv",
+		"/home/dandras/_data/dasz/py/rwl/speak.py",
+		"/home/dandras/games/stdout.txt",
+		"/home/dandras/Downloads/cfgsy/VPNConfig.ovpn",
+		"/home/dandras/Downloads/ca0 (1).crt",
+		"/home/dandras/Downloads/ca.crt",
+		"/home/dandras/Downloads/ca0.crt",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.239,share=homes/owncloud.sql",
+		"/home/dandras/_data/dasz/py/cowboy/main.py",
+		"/home/dandras/_data/dasz/py/edu/first.py",
+		"/home/dandras/_data/dasz/py/AIO_Win_Lite/ib_api.py",
+		"/home/dandras/Downloads/client.p12",
+		"/home/dandras/Downloads/cfgsy/ibVPN_UK_Streaming_2.ovpn",
+		"/home/dandras/_data/dasz/py/speech/speech.py",
+		"/home/dandras/Downloads/ovpn (4).log",
+		"/home/dandras/.cache/.fr-ZUmoJV/VPNConfig.ovpn",
+		"/home/dandras/Downloads/cfgsy/ibVPN_South_Korea_Seoul.ovpn",
+		"/home/dandras/.cache/.fr-pTOLLf/README.txt",
+		"/home/dandras/.cache/.fr-au8mH8/ca.crt",
+		"/home/dandras/.cache/.fr-jvKRu4/virtualbox4dsm-master/SynoBuildConf/install",
+		"/home/dandras/Downloads/cfgsy/ibVPN_UK_Streaming_233333.ovpn",
+		"/home/dandras/Downloads/cfgsy/ibVPN_UK_Streaming_1.ovpn",
+		"/home/dandras/.steam/steam/steamapps/common/swkotor/swkotor.ini",
+		"/home/dandras/_data/dasz/py/AIO_Win_Lite/version.txt",
+		"/home/dandras/_data/dasz/py/AIO_Win_Lite/oua",
+		"/tmp/_dc2041954819/version.txt",
+		"/home/dandras/_data/dasz/py/AIO_Win_Lite/searchtest.py",
+		"/home/dandras/Downloads/debug (2).txt",
+		"/home/dandras/Downloads/ovpn.log",
+		"/home/dandras/Downloads/ovpn (3).log",
+		"/home/dandras/Downloads/debug.txt",
+		"/home/dandras/Downloads/A Passage to India (1984) 1080p H.264 2.8GB version (moviesbyrizzo)/Subtitles folder - A Passage to India 1080p (moviesbyrizzo)/Romanian/A Passage to India (1984) 1080p H.264 ENG-ITA (moviesbyrizzo).srt",
+		"/home/dandras/_data/dasz/2020/wg_andrei.conf",
+		"/home/dandras/Downloads/mullvad-jp3.conf",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_02_code/06 - project/drawingspace.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_02_code/06 - project/comiccreator.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_02_code/06 - project/generaloptions.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_02_code/06 - project/comiccreator.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_03_code/comiccreator.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_03_code/toolbox.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_03_code/comicwidgets.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_03_code/drawingspace.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_03_code/toolbox.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_03_code/statusbar.pyc",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_02_code/04 - background and foreground/drawing.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_02_code/04 - background and foreground/drawing.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_02_code/05 - transformations/drawing.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_01_code/07 - project interface/toolbox.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_01_code/07 - project interface/comiccreator.py",
+		"/home/dandras/Downloads/debug (1).txt",
+		"/home/dandras/Downloads/debug_after_exit.txt",
+		"/home/dandras/Downloads/ovpn (2).log",
+		"/home/dandras/Pictures/07-04-2020/gif/myimage.gif",
+		"/home/dandras/_data/dasz/py/cowboy/main_old.py",
+		"/home/dandras/_data/dasz/py/windows/ib_api.py",
+		"/home/dandras/_data/dasz/py/cowboy/ef.py",
+		"/media/dandras/ROOT-A/etc/chrome_dev.conf",
+		"/home/dandras/Downloads/primd_ovpn.log",
+		"/home/dandras/Downloads/ovpn (1).log",
+		"/media/dandras/boot/config.txt",
+		"/media/dandras/boot/cmdline.txt",
+		"/home/dandras/_data/dasz/py/cowboy/main.spec",
+		"/home/dandras/_data/dasz/py/cowboy/buildozer.spec",
+		"/home/dandras/_data/dasz/py/windows/version.txt",
+		"/home/dandras/Desktop/json.dump(data, outfile.txt",
+		"/home/dandras/_data/dasz/py/cowboy/clickbox.py",
+		"/home/dandras/Downloads/Raportare-activitati-online-1.docx",
+		"/home/dandras/Downloads/cehia_uk_ovpn.log",
+		"/home/dandras/Downloads/deconectare.txt",
+		"/home/dandras/_data/dasz/py/windows/ibvpnlv.py",
+		"/home/dandras/games/nfs-lan/servers.dat",
+		"/home/dandras/_data/dasz/py/cowboy/kvfiles.py",
+		"/run/user/1000/gvfs/smb-share:server=192.168.0.239,share=homes/disk3/_data/games/game_iso/gta/gtavc/Install Instructions.txt",
+		"/home/dandras/_data/dasz/py/windows/ibvpn.py",
+		"/home/dandras/_data/dasz/py/cowboy/rotate.py",
+		"/home/dandras/_data/dasz/py/cowboy/CBox.kv",
+		"/home/dandras/_data/dasz/py/kivy/main.py",
+		"/home/dandras/_data/dasz/py/windows/update.py",
+		"/home/dandras/_data/dasz/py/cowboy/svgg.py",
+		"/home/dandras/_data/dasz/py/ibvpn/ibvpn_101_b.py",
+		"/home/dandras/_data/dasz/py/ibvpn/ibvpn.py",
+		"/home/dandras/_data/dasz/gm/ps2.py",
+		"/home/dandras/_data/dasz/py/windows/o.py",
+		"/home/dandras/_data/dasz/py/windows/o2.py",
+		"/home/dandras/_data/dasz/py/windows/uninst.py",
+		"/home/dandras/_data/dasz/py/kivy/s_client.py",
+		"/home/dandras/_data/dasz/py/windows/scrl2.py",
+		"/home/dandras/_data/dasz/py/windows/scroll.py",
+		"/home/dandras/_data/dasz/py/windows/scrl.py",
+		"/home/dandras/_data/dasz/py/windows/ibvpn2.py",
+		"/home/dandras/_data/dasz/py/windows/testlist.py",
+		"/home/dandras/_data/dasz/py/windows/123. sietve",
+		"/home/dandras/_data/dasz/py/windows/ibvpn3.py",
+		"/home/dandras/_data/dasz/py/windows/ibvpn_old1.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_01_code/03 - widgets/widgets.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_01_code/03 - widgets/widgets.kv",
+		"/home/dandras/Desktop/hvottak",
+		"/home/dandras/Desktop/sss",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_01_code/02 - hello2/hello2.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_01_code/02 - hello2/hello2.kv",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_01_code/01 - hello/hello.py",
+		"/home/dandras/_data/dasz/py/shark/main.py",
+		"/home/dandras/_data/dasz/py/testconsole/main.py",
+		"/home/dandras/_data/dasz/py/shark/move.py",
+		"/home/dandras/_data/dasz/py/learn/screens.py",
+		"/home/dandras/_data/dasz/py/learn/untitled.py",
+		"/home/dandras/_data/dasz/py/learn/pw.py",
+		"/home/dandras/_data/dasz/py/learn/main.py",
+		"/home/dandras/_data/dasz/py/kivs/main.py",
+		"/home/dandras/_data/dasz/py/kivcam/main.py",
+		"/home/dandras/_data/dasz/py/kiv1/main.py",
+		"/home/dandras/_data/dasz/py/kiv/main.py",
+		"/home/dandras/_data/dasz/py/game/asteroids-master/game.py",
+		"/home/dandras/_data/dasz/py/game/sht/sht.py",
+		"/home/dandras/_data/dasz/py/camera/cam.py",
+		"/home/dandras/_data/dasz/py/camera/camera.py",
+		"/home/dandras/_data/dasz/py/ibvpn/window.py",
+		"/home/dandras/.config/sublime-text-3/Packages/User/Python3.sublime-build",
+		"/home/dandras/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_05_code/main.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_05_code/boom.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_05_code/invader.py",
+		"/home/dandras/_data/dasz/py/kivy-book-examples-master/Chapter_05_code/shooter.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"search",
+			"7",
+			"screen",
+			"ids",
+			"bind",
+			"execute",
+			"fastest",
+			"platform",
+			"print",
+			"bullet_sound",
+			"bulet_sound",
+			"\",",
+			"platform",
+			"print",
+			".play",
+			"vlc.",
+			"print",
+			"on_touch",
+			"print",
+			"fastest",
+			"on_motion",
+			"upd_button",
+			"upd.button",
+			"Clock.unschedule(self.upd_button)",
+			"popup",
+			"port",
+			"Serverscreen",
+			"ib_api.Get",
+			"login",
+			"getApi",
+			"serverlist",
+			"server list",
+			"fetching",
+			"schedule",
+			"reboot",
+			"ib_api",
+			"disconne",
+			"disconn",
+			"read_cfg",
+			"execute",
+			"connecto",
+			"cnbtn",
+			"self.total",
+			"srvlist",
+			"bck",
+			"detfast",
+			"fetfast",
+			"detfast",
+			"fastestcmd",
+			"openvp",
+			"fst(",
+			"fst",
+			"dfss",
+			"[][]'\\''"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/dandras/_data/dasz/py/rwl/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 1454.0,
+						"translation.y": 5712.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/dandras/_data/dasz/py/rwl/matchgame.kv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kivy Language/kv.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/dandras/_data/dasz/py/rwl/design.kv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kivy Language/kv.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3453.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/dandras/_data/dasz/py/rwl/games.kv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kivy Language/kv.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1044.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/dandras/_data/dasz/py/AIO_Win_Lite/design.kv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kivy Language/kv.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 208.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "clickbox",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
